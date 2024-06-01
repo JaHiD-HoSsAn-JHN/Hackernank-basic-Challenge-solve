@@ -1,1 +1,1 @@
-# SQL_Hackernank_Challenge
+# Hackernank for basic Challenge
