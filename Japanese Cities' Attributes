@@ -1,0 +1,4 @@
+QS: Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
+Ans: 
+  SELECT * FROM CITY
+  WHERE COUNTRYCODE = "JPN";
