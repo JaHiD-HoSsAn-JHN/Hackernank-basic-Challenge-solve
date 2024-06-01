@@ -1,0 +1,2 @@
+Question 3: Query all columns (attributes) for every row in the CITY table.
+Ans: SELECT * FROM CITY;
